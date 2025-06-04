@@ -1,5 +1,5 @@
 # Python-Fundamentals
-Demonstrating my understanding and skills with basic python. 
+Demonstrating my understanding and skills with basic python programming. 
 
 ## Projects
 
